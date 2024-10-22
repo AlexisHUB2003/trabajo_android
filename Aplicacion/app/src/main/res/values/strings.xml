@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aplicacion</string>
+    <string-array name="spinner_options">
+        <item></item>
+        <item>Foro</item>
+        <item>Estudio</item>
+        <item>Trabajo Grupal</item>
+        <item>Apuntes</item>
+    </string-array>
+</resources>
